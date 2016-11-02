@@ -1,4 +1,7 @@
-*Pushear# gitinteractive
+*Pushear# 
+
+gitinteractive
+
 Git intereactive test
 
 ### Proyecto de prueba de Git Interactive
